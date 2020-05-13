@@ -13,6 +13,7 @@
 		42243154246B4E14006A8DA1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42243152246B4E14006A8DA1 /* Main.storyboard */; };
 		42243156246B4E18006A8DA1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42243155246B4E18006A8DA1 /* Assets.xcassets */; };
 		42243159246B4E18006A8DA1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 42243157246B4E18006A8DA1 /* LaunchScreen.storyboard */; };
+		429996E9246CA63400F9CA4C /* CircularButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 429996E8246CA63400F9CA4C /* CircularButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		42243155246B4E18006A8DA1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		42243158246B4E18006A8DA1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4224315A246B4E18006A8DA1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		429996E8246CA63400F9CA4C /* CircularButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				42243155246B4E18006A8DA1 /* Assets.xcassets */,
 				42243157246B4E18006A8DA1 /* LaunchScreen.storyboard */,
 				4224315A246B4E18006A8DA1 /* Info.plist */,
+				429996E8246CA63400F9CA4C /* CircularButton.swift */,
 			);
 			path = SimonSays;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				429996E9246CA63400F9CA4C /* CircularButton.swift in Sources */,
 				42243151246B4E14006A8DA1 /* ViewController.swift in Sources */,
 				4224314D246B4E14006A8DA1 /* AppDelegate.swift in Sources */,
 				4224314F246B4E14006A8DA1 /* SceneDelegate.swift in Sources */,
